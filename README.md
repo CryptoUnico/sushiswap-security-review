@@ -29,7 +29,7 @@ Documentation: [SushiSwap Medium Article](https://medium.com/sushiswap/the-sushi
 - 3 low risk issues;
 - 5 informational.
 
-No critical or high risk issues were found.
+No critical or high risk issues were found. Although we provide some recommendations for fixes below, since the contracts are already deployed, these are primarily for informational purposes. No found issues were critical enough to suggest re-deployment of the existing contracts, however caution should be used when using them.
 
 ## 3.1. `add()` does not prevent the same LP token from being added more than once
 
